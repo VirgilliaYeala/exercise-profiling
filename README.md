@@ -52,11 +52,13 @@
 </p>
 Kesimpulan : Terdapat penurunan `_execution time_` saat mengakses endpoint `/all-student` dari rata-rata 29.328,4ms menjadi 3.421,9ms pada JMeter dan dari rata-rata 2.080ms menjadi 559ms pada Profiling Intellij.
 
+
 2. **HTTP Request for `/all-student-name`**
 <p align="center">
   <img src="src\main\resources\static\image\all-student-name\all-students-name-optim request.png" />
 </p>
 Kesimpulan : Terdapat penurunan `_execution time_` saat mengakses endpoint `/all-student-name` dari rata-rata 513,9ms menjadi 231,6ms pada JMeter dan dari rata-rata 246ms menjadi 143ms pada Profiling Intellij.
+
 
 3. **HTTP Request for `/highest-gpa`**
 <p align="center">
